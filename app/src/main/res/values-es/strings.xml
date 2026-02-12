@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UnipiCityVibe</string>
+
+    <!-- Login -->
+    <string name="login">Iniciar Sesión</string>
+    <string name="sign_up">Registrarse</string>
+    <string name="full_name">Nombre Completo</string>
+    <string name="email">Correo</string>
+    <string name="password">Contraseña</string>
+    <string name="discover_events">Descubre eventos cerca de ti</string>
+
+    <!-- Main -->
+    <string name="filter">Filtrar</string>
+    <string name="map">Mapa</string>
+    <string name="calendar">Calendario</string>
+    <string name="search">Buscar</string>
+    <string name="trending">Tendencias</string>
+    <string name="near_you">Cerca de ti</string>
+    <string name="search_events">Buscar eventos...</string>
+    <string name="enable_location">Activa la ubicación para ver eventos cercanos</string>
+    <string name="no_events_nearby">No hay eventos cercanos</string>
+
+    <!-- Event Detail -->
+    <string name="per_ticket">por entrada</string>
+    <string name="left">quedan</string>
+    <string name="of">de</string>
+    <string name="view_map">Ver Mapa</string>
+    <string name="about_event">Sobre este evento</string>
+    <string name="event_code">Código:</string>
+    <string name="ill_be_there">¡Estaré ahí!</string>
+    <string name="youre_going">¡Vas a ir!</string>
+    <string name="sold_out">Agotado</string>
+    <string name="event_ended">Evento Finalizado</string>
+
+    <!-- Settings -->
+    <string name="settings">Ajustes</string>
+    <string name="profile">Perfil</string>
+    <string name="save_profile">Guardar</string>
+    <string name="preferences">Preferencias</string>
+    <string name="dark_theme">Tema Oscuro</string>
+    <string name="dark_theme_desc">Cambiar a modo oscuro</string>
+    <string name="notifications">Notificaciones de Proximidad</string>
+    <string name="notifications_desc">Recibe alertas cuando estés cerca de un evento</string>
+    <string name="font_size">Tamaño de Fuente</string>
+    <string name="small">Pequeño</string>
+    <string name="medium">Mediano</string>
+    <string name="large">Grande</string>
+    <string name="language">Idioma</string>
+    <string name="sign_out">Cerrar Sesión</string>
+    <string name="sign_out_confirm">¿Estás seguro de que quieres cerrar sesión?</string>
+    <string name="cancel">Cancelar</string>
+
+    <!-- Calendar -->
+    <string name="event_calendar">Calendario de Eventos</string>
+    <string name="events_on">Eventos el %1$s</string>
+    <string name="no_events_date">No hay eventos en esta fecha</string>
+
+    <!-- Map -->
+    <string name="event_map">Mapa de Eventos</string>
+
+    <!-- Filter -->
+    <string name="filter_by_category">Filtrar por Categoría</string>
+    <string name="select_categories">Selecciona categorías</string>
+    <string name="theater">Teatro</string>
+    <string name="cinema">Cine</string>
+    <string name="concert">Concierto</string>
+    <string name="sports">Deportes</string>
+    <string name="exhibition">Exposición</string>
+    <string name="festival">Festival</string>
+    <string name="apply">Aplicar</string>
+    <string name="select_all">Seleccionar Todo</string>
+
+    <!-- General -->
+    <string name="go_back">Volver</string>
+
+    <string name="all_events">Todos los Eventos</string>
+</resources>

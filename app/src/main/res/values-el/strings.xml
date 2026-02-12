@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UnipiCityVibe</string>
+
+    <!-- Login -->
+    <string name="login">Σύνδεση</string>
+    <string name="sign_up">Εγγραφή</string>
+    <string name="full_name">Ονοματεπώνυμο</string>
+    <string name="email">Email</string>
+    <string name="password">Κωδικός</string>
+    <string name="discover_events">Ανακάλυψε εκδηλώσεις γύρω σου</string>
+
+    <!-- Main -->
+    <string name="filter">Φίλτρο</string>
+    <string name="map">Χάρτης</string>
+    <string name="calendar">Ημερολόγιο</string>
+    <string name="search">Αναζήτηση</string>
+    <string name="trending">Δημοφιλή</string>
+    <string name="near_you">Κοντά σου</string>
+    <string name="search_events">Αναζήτηση εκδηλώσεων...</string>
+    <string name="enable_location">Ενεργοποίησε την τοποθεσία για να δεις κοντινές εκδηλώσεις</string>
+    <string name="no_events_nearby">Δεν υπάρχουν κοντινές εκδηλώσεις</string>
+
+    <!-- Event Detail -->
+    <string name="per_ticket">ανά εισιτήριο</string>
+    <string name="left">απομένουν</string>
+    <string name="of">από</string>
+    <string name="view_map">Προβολή Χάρτη</string>
+    <string name="about_event">Σχετικά με την εκδήλωση</string>
+    <string name="event_code">Κωδικός:</string>
+    <string name="ill_be_there">Θα είμαι εκεί!</string>
+    <string name="youre_going">Έκλεισες!</string>
+    <string name="sold_out">Εξαντλήθηκαν</string>
+    <string name="event_ended">Η εκδήλωση έληξε</string>
+
+    <!-- Settings -->
+    <string name="settings">Ρυθμίσεις</string>
+    <string name="profile">Προφίλ</string>
+    <string name="save_profile">Αποθήκευση</string>
+    <string name="preferences">Προτιμήσεις</string>
+    <string name="dark_theme">Σκούρο Θέμα</string>
+    <string name="dark_theme_desc">Αλλαγή σε σκούρο θέμα</string>
+    <string name="notifications">Ειδοποιήσεις</string>
+    <string name="notifications_desc">Ειδοποίηση όταν είσαι κοντά σε εκδήλωση</string>
+    <string name="font_size">Μέγεθος Γραμματοσειράς</string>
+    <string name="small">Μικρό</string>
+    <string name="medium">Μεσαίο</string>
+    <string name="large">Μεγάλο</string>
+    <string name="language">Γλώσσα</string>
+    <string name="sign_out">Αποσύνδεση</string>
+    <string name="sign_out_confirm">Είσαι σίγουρος ότι θέλεις να αποσυνδεθείς;</string>
+    <string name="cancel">Άκυρο</string>
+
+    <!-- Calendar -->
+    <string name="event_calendar">Ημερολόγιο Εκδηλώσεων</string>
+    <string name="events_on">Εκδηλώσεις στις %1$s</string>
+    <string name="no_events_date">Δεν υπάρχουν εκδηλώσεις αυτή την ημέρα</string>
+
+    <!-- Map -->
+    <string name="event_map">Χάρτης Εκδηλώσεων</string>
+
+    <!-- Filter -->
+    <string name="filter_by_category">Φίλτρο ανά Κατηγορία</string>
+    <string name="select_categories">Επίλεξε κατηγορίες</string>
+    <string name="theater">Θέατρο</string>
+    <string name="cinema">Σινεμά</string>
+    <string name="concert">Συναυλία</string>
+    <string name="sports">Αθλητικά</string>
+    <string name="exhibition">Έκθεση</string>
+    <string name="festival">Φεστιβάλ</string>
+    <string name="apply">Εφαρμογή</string>
+    <string name="select_all">Επιλογή Όλων</string>
+
+    <!-- General -->
+    <string name="go_back">Πίσω</string>
+
+    <string name="all_events">Όλες οι Εκδηλώσεις</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "583901202662",
+    "project_id": "myunipicityvibes",
+    "storage_bucket": "myunipicityvibes.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583901202662:android:7f6be0aa92713b61e41327",
+        "android_client_info": {
+          "package_name": "com.stelandvag.unipicityvibes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApklCjgQWPRBZmTjj8sU-Mil79-VoVgqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
